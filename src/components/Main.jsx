@@ -13,8 +13,8 @@ const Main = () => (
           LET'S BUILD SOMETHING TOGETHER
         </p>
         <h1>
-          <span className="text-[#7A77B9]">Hi, &rsquo;</span> I'm{" "}
-          <span className="text-[#F2C76E]">Aaina&rsquo;</span>
+          <span className="text-[#7A77B9]">Hi,</span> I'm{" "}
+          <span className="text-[#F2C76E]">Aaina</span>
         </h1>
         <h2 className="py-4 text-[#EA7186]">
           I AM FULL STACK{" "}
